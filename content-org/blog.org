@@ -1,0 +1,45 @@
+#+hugo_base_dir: ../
+
+* Blog Posts
+ :PROPERTIES:
+ :EXPORT_HUGO_SECTION: posts
+ :END:
+** DONE Post 1
+   CLOSED: [2019-10-15 di 21:33]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: post-1
+   :END:
+   This is my first post
+** DONE Math
+   CLOSED: [2019-10-15 di 21:39]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: math
+   :END:
+   $a=2$
+** DONE Programming
+   CLOSED: [2019-10-15 di 22:48]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: programming
+   :END:
+   #+begin_src python
+     for i in range(10):
+         print(i)
+   #+end_src
+** DONE Test again
+   CLOSED: [2019-10-15 di 23:04]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: test-again
+   :END:
+   Hello
+** DONE Test3
+   CLOSED: [2019-10-15 di 23:07]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: test3
+   :END:
+   ffff
+** DONE Test4
+   CLOSED: [2019-10-15 di 23:22]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: test4
+   :END:
+   aaaaa

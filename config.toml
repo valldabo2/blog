@@ -1,0 +1,13 @@
+baseurl = "https://www.example.com/"
+title = "Blog"
+author = "Olle Dahlen"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Blog"
+  disableWebFonts = false
